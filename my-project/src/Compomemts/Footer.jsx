@@ -11,6 +11,8 @@ const Footer = () => {
        </div>
        <h3 className='text-[4vw] font-semibold  uppercase leading-none -mb-6'>ochi.</h3>
         </div>
+
+        
         <div className="w-1/2 ">
        <h1 className='text-[7vw] font-semibold uppercase leading-none -mb-6'>
        presentations
